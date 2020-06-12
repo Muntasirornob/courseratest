@@ -1,0 +1,4 @@
+[Muntasir@Coursera ~]$ git config --global user.name "Muntasirornob"
+[Muntasir@Coursera ~]$ git config --global user.email "muntasirornob@gmail.com"
+https://github.com/Muntasirornob/courseratest.git
+git config --global user.name "Muntasirornob"
