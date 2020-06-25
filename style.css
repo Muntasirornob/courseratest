@@ -12,7 +12,7 @@ p{
     font-size: 16px;
     position: relative;
 }
-.s{
+.box{
     background-color: rgb(150,150,150);
     border: 2px solid black;
     padding: 3px;
@@ -32,14 +32,14 @@ span{
     margin:0;
     position: absolute;
 }
-#i1{
+#a1{
     background-color: #798DB5;
 
 }
-#i2{
+#a2{
     background-color: #A179B5;
 }
-#i3{
+#a3{
     background-color: #8379B5;
 }
 .container{
